@@ -1,0 +1,76 @@
+body{
+    background: url("img/fondo.jpg");
+
+    margin: auto;
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+}
+a{
+    color: cornsilk;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;  
+}
+
+h1{
+    color: cornsilk;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}h3{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.page-head{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    
+    padding: 28px 40px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: #bf7a9a;
+}
+.page-container{
+    background-image: url(img/fondo.jpg);
+}
+
+.page{
+    padding-top: 120px;;
+    background-color: rgba(5, 5, 5, 0.411);
+}
+.menu-link{
+    color: cornsilk;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.menu-link:hover{
+    text-decoration: underline;
+}
+
+.logo{
+    font-size: small;
+    text-decoration: none;
+}
+
+.pos{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
